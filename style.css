@@ -1,4 +1,19 @@
+body {
+    font-size: 22px;
+}
+
+h1, h2 {
+    color: blue;
+}
+
 p {
-    font-size: 64px;
     color: purple;
+}
+
+.gray {
+    color: gray;
+}
+
+#second {
+    font-style: italic;
 }
